@@ -489,7 +489,7 @@ i{
   .new .container-n .p2 ul li .active,
   .new .container-n .p2 ul li .en1
   {
-    width: 95px;
+    width: 90px;
     display: inline-block;
   }
   .new .container-n .p2 ul .dis,
@@ -1162,6 +1162,8 @@ i{
     display: flex;
     gap: 40px;
     line-height: 30px;
+    margin-top: -10px;
+    margin-left: -4px;
   }
   .foot-1 .foot_part {
     gap: 10px;
