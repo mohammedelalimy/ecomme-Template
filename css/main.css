@@ -1161,7 +1161,7 @@ i{
 @media (max-width:768px){
   .purpose{
     display: flex;
-    gap: 15px;
+    gap: 0px;
     line-height: 30px;
     margin-top: -10px;
     margin-left: -4px;
