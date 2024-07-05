@@ -489,8 +489,9 @@ i{
   .new .container-n .p2 ul li .active,
   .new .container-n .p2 ul li .en1
   {
-    width: 90px;
+    width: 80px;
     display: inline-block;
+    font-size: 13px;
   }
   .new .container-n .p2 ul .dis,
   .new .container-n .p2 ul .dis1{
